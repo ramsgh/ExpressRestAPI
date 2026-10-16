@@ -1,0 +1,16 @@
+{
+  "name": "express-rest-d32-small-programs",
+  "version": "1.0.0",
+  "description": "Day 32 REST API Principles, Versioning, Status Codes, and Standardized Responses",
+  "main": "01-rest-principles-and-versioning.js",
+  "scripts": {
+    "prog1": "node 01-rest-principles-and-versioning.js",
+    "prog2": "node 02-success-status-codes.js",
+    "prog3": "node 03-client-error-status-codes.js",
+    "prog4": "node 04-auth-status-codes.js",
+    "prog5": "node 05-server-error-status-code.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
